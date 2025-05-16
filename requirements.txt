@@ -1,4 +1,4 @@
 fastapi
 uvicorn[standard]
 python-telegram-bot==20.*
-openai
+google-genai
